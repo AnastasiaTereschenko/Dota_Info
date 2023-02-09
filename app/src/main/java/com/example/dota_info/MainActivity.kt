@@ -37,7 +37,5 @@ fun Greeting(name: String) {
 @Preview(showBackground = true)
 @Composable
 fun DefaultPreview() {
-    Dota_InfoTheme {
-        Greeting("Android")
-    }
+    
 }
